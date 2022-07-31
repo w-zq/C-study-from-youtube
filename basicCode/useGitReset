@@ -1,0 +1,1 @@
+if you delete the file or fileFolder then you can use the "git reset --hard" to regain the data which you uploaded in the git before.
