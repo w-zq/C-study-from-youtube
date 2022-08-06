@@ -16,4 +16,9 @@ tast1:
 
 tast2:
 	cmath, vectors etc.
+
+//(find the math.cpp)
+
+some scripts of learning cpp:
+	if you don't use "using namespace std", then you should type "std::cout << ..." and the std means standard.
 	
