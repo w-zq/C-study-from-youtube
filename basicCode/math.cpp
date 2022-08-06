@@ -1,7 +1,8 @@
 #include<iostream>
 #include<string>
-using namespace std;
+#include<cmath>
 
+using namespace std;
 
 int main()
 {
@@ -19,8 +20,12 @@ int main()
 	cout << third_statement;
 	cin >> b;
 	cout << a+b << endl;
-	cout << 3/5 <<endl;
-	cout << 4/2 <<endl;
-	cout << 4.0/5 <<endl;
+	cout << 3/5 << endl;
+	cout << 4/2 << endl;
+	cout << 4.0/5 << endl; //if you want a decimal
+	cout << 2-3.556 << endl;
+	//do some tests
+	cout << sqrt(2) << endl;
+	cout << pow(2,0.5) << endl;	
 	return 0;
 }
