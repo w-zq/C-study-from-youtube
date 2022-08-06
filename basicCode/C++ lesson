@@ -14,11 +14,17 @@ tast1:
 	input, output;
 	while, for, if statements
 
+//some scripts of learning namespace std:
+	if you don't use "using namespace std", then you should type "std::cout << ..." and the std means standard.
+	
+
 tast2:
 	cmath, vectors etc.
 
+//some scripts of learning namespace std:
+	to define a array
+
 //(find the math.cpp)
 
-some scripts of learning cpp:
-	if you don't use "using namespace std", then you should type "std::cout << ..." and the std means standard.
+
 	
