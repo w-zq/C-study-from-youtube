@@ -1,0 +1,19 @@
+// this is the lesson1
+print hello world and use endline. (find it in the hello_world.cpp)
+
+
+
+
+// this is the lesson2 of C++ study.
+// tast1: basic syntax
+// tast2: math -> solve simulation equs, ODE, Matrix, PDE
+// tast3: object-oriented projects -> classes
+// tast4: libraries -> OpenFoam solvers
+
+tast1:
+	input, output;
+	while, for, if statements
+
+tast2:
+	cmath, vectors etc.
+	
