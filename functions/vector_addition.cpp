@@ -34,7 +34,7 @@ int main()
 	double add_result = vector_add(vector1,vector2);
 	
 	cout << add_result << endl;
-	cout << typeid(add_result).name() << endl;
+	cout << typeid(add_result).name() << endl;//to find the type of result.
 
 	return 0;
 }
@@ -46,7 +46,7 @@ double vector_add(double arrayA[3][1],double arrayB[3][1])
 	{
 		vector_add_result[i][0] = arrayA[i][0] + arrayB[i][0];
 	}
-	// return **vector_add_result;
+	// return **vector_add_result; //the result will be the first element.
 	return vector_add_result[2][0];
 }
 
