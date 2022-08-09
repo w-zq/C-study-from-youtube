@@ -38,14 +38,14 @@ void Vector::printVector2(){
 	}
 }
 
-Vector::Vector(){
-	//initialising
-	cout << "initialising the vector..." << endl;
-	for(int i = 0; i < 3; i++){
-		vector1[i][0] = 0;
-		vector2[i][0] = 0;
-	}
-}
+// Vector::Vector(){
+// 	//initialising
+// 	cout << "initialising the vector..." << endl;
+// 	for(int i = 0; i < 3; i++){
+// 		vector1[i][0] = 0;
+// 		vector2[i][0] = 0;
+// 	}
+// }
 
 
 void Vector::setvector1(){

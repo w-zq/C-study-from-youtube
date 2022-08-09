@@ -6,7 +6,7 @@ class Vector{
 		int printVector1();
 		void printVector2();
 		//constructor
-		Vector(); 
+		// Vector(); 
 		void setvector1();
 		void setvector2();
 		double vector_add();
