@@ -7,7 +7,7 @@ using namespace std;
 #include"vector_class_head.h"
 
 int main(){
-	cout << "change to test the compile single" << endl;
+	// cout << "change to test the compile single" << endl;
 	
 	Vector vec;
 
