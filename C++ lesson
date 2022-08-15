@@ -1,30 +1,33 @@
-// this is the lesson1
+# this is the lesson1
 print hello world and use endline. (find it in the hello_world.cpp)
 
 
 
 
-// this is the lesson2 of C++ study.
+# this is the lesson2 of C++ study.
 // tast1: basic syntax
 // tast2: math -> solve simulation equs, ODE, Matrix, PDE
 // tast3: object-oriented projects -> classes
 // tast4: libraries -> OpenFoam solvers
 
-tast1:
+
+
+
+# tast1:
 	input, output;
 	while, for, if statements
 
-//some scripts of learning namespace std:
+some scripts of learning namespace std:
 	if you don't use "using namespace std", then you should type "std::cout << ..." and the std means standard.
 	
 
-tast2:
+# tast2:
 	cmath, vectors etc.
 
-//some scripts of learning namespace std:
+some scripts of learning namespace std:
 	to define a array
 
-//(find the math.cpp)
+(find the math.cpp)
 
 
 	
